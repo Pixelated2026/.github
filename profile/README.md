@@ -159,7 +159,7 @@ Let's make it real.
 
 ### `PIXELATED / END_OF_FILE`
 
-*Made with curiosity, caffeine, and questionable ideas.*
+*Made with curiosity, some lab experiments, and questionable ideas.*
 
 **PLAY OUTSIDE THE PIXELS.**
 
